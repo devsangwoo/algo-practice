@@ -7,3 +7,7 @@
 ------------ | ------------- | ------------- | ------------- | ------------- |
 1주차 | [2020 카카오 인턴십 : 키패드 누르기](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week%201/%EA%B3%B5%ED%86%B5%EB%AC%B8%EC%A0%9C1.js) | [프로그래머스 : K번째 수](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week%201/%EA%B0%9C%EC%9D%B8%EB%AC%B8%EC%A0%9C1.js) | Javascript | 2021-07-18 
 2주차 | [2019 카카오 개발자 겨울 인턴십 : 튜플](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week%202/%EA%B3%B5%ED%86%B5%EB%AC%B8%EC%A0%9C2.js) | [프로그래머스 : 프린터](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week%202/%EA%B0%9C%EC%9D%B8%EB%AC%B8%EC%A0%9C2.js) | Javascript | 2021-07-25 
+3주차 | [2021 카카오 채용연계형 인턴십 : 숫자 문자열과 영단어](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week%203/%EA%B3%B5%ED%86%B5%EB%AC%B8%EC%A0%9C%203.js) | [프로그래머스 : 부족한 금액 계산하기
+](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week%203/%EA%B0%9C%EC%9D%B8%EB%AC%B8%EC%A0%9C3.js) | Javascript | 2021-08-01 
+4주차 | [프로그래머스 월간 코드 챌린지 시즌 1 : 두 개 뽑아서 더하기](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week%204/%EA%B3%B5%ED%86%B5%EB%AC%B8%EC%A0%9C4.js) | [프로그래머스 : 체육복
+](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week%204/%EA%B0%9C%EC%9D%B8%EB%AC%B8%EC%A0%9C4.js) | Javascript | 2021-08-08
