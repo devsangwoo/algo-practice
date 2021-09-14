@@ -1,6 +1,10 @@
+// ㅡㅡㅡㅡㅡ2021-09-13ㅡㅡㅡㅡㅡㅡ
 // 프로그래머스 :: 위클리 챌린지 7주차
 // 26, 27 시간초과 94.1점
-// ㅡㅡㅡㅡㅡ2021-09-13ㅡㅡㅡㅡㅡㅡ
+// ㅡㅡㅡㅡㅡ2021-09-14ㅡㅡㅡㅡㅡㅡ
+// 26, 27 시간초과 해결
+
+
 
 // 다 넣어놓고 빠질때 앞에있는 애들은 다 만난거고
 // 앞에있는 애들 끼리도 다 만난거
@@ -13,16 +17,20 @@ function solution(enter, leave) {
         grp.push(tmp)
     }
     let count = 1
-    // let checker = [];
+    let checker = [];
     for ( var i = 0 ; i < leave.length ; i++){ // 1000
         let out = leave[i]
         // 처음 나가는놈
         let order = enter.indexOf(out)
         // 나가는 놈 앞에놈을 찾아라
-        let counter = []
+        if (~checker.indexOf(out)){
+            enter.splice(enter.indexOf(out),1)
+            continue
+        }
         let maxOrder = -1;
+        
         for (let j = 0 ; j <= order ; j++ ){ 
-       
+            checker.push(enter[j])
             // enter배열에서 0부터 j 까지의 애들 전부 서로 만난건데 어떻게 처리해주지
             //나중에 나갔는데 먼저 들어간경우는 무조건 만난거
             //여기서 멈춰야하네
