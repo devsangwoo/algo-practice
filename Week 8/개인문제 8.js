@@ -1,4 +1,4 @@
-// 프로그래머스 :: 2021 KAKAO BLIND RECRUITMENT
+// 프로그래머스 :: 2021 KAKAO BLIND RECRUITMENT :: 신규 아이디 추천
 
 function solution(new_id) {
     const answer = new_id
