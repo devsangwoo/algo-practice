@@ -1,6 +1,6 @@
 //2021 KAKAO BLIND RECRUITMENT :: 
 
-// 효율성 fail
+// 효율성 fail 09/29
 
 function solution(table, query) {
     var answer = [];
