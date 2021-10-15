@@ -16,4 +16,6 @@
 9주차 | [2021 KAKAO BLIND RECRUITMENT :: 순위검색 > 효율성 fail](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week%209/%EA%B3%B5%ED%86%B5%EB%AC%B8%EC%A0%9C%209.js) | [ 프로그래머스 :: 짝지어 제거하기 ](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week%209/%EA%B0%9C%EC%9D%B8%EB%AC%B8%EC%A0%9C%209-1.js)</br> [프로그래머스 :: 게임 맵 최단거리](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week%209/%EA%B0%9C%EC%9D%B8%EB%AC%B8%EC%A0%9C%209-2.js) | Javascript | 2021-09-26
 10주차 | []() | [프로그래머스 :: 소수 만들기](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week%2010/%EA%B0%9C%EC%9D%B8%EB%AC%B8%EC%A0%9C%2010-1.js)</br> [프로그래머스 :: 타겟 넘버](https://github.com/Younggil-kim/Coding-Test-Study/tree/master/Week%2010) | Javascript | 2021-10-3
 11주차 | []() | [프로그래머스 :: 네트워크 ](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week%2011/%EA%B0%9C%EC%9D%B8%EB%AC%B8%EC%A0%9C%2011-1.js) | Javascript | 2021-10-10
+12주차 | []() | []() | Javascript | 2021-10-17
+
 
