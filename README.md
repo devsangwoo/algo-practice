@@ -17,5 +17,6 @@
 10주차 | []() | [프로그래머스 :: 소수 만들기](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week%2010/%EA%B0%9C%EC%9D%B8%EB%AC%B8%EC%A0%9C%2010-1.js)</br> [프로그래머스 :: 타겟 넘버](https://github.com/Younggil-kim/Coding-Test-Study/tree/master/Week%2010) | Javascript | 2021-10-3
 11주차 | []() | [프로그래머스 :: 네트워크 ](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week%2011/%EA%B0%9C%EC%9D%B8%EB%AC%B8%EC%A0%9C%2011-1.js) | Javascript | 2021-10-10
 12주차 | []() | [월간 코드 챌린지 시즌 1 :: 이진 변환 반복하기](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week%2012/%EA%B0%9C%EC%9D%B8%EB%AC%B8%EC%A0%9C%2012-1.js)</br> [프로그래머스 :: 피보나치 수  ](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week%2012/%EA%B0%9C%EC%9D%B8%EB%AC%B8%EC%A0%9C%2012-2.js) | Javascript | 2021-10-17
+13주차 | []() | [프로그래머스 :: N개의 최소공배수](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week%2013/%EA%B0%9C%EC%9D%B8%EB%AC%B8%EC%A0%9C%2013-1.js) | Javascript | 2021-10-24
 
 
