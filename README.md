@@ -18,6 +18,6 @@
 11주차 | []() | [프로그래머스 :: 네트워크 ](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week%2011/%EA%B0%9C%EC%9D%B8%EB%AC%B8%EC%A0%9C%2011-1.js) | Javascript | 2021-10-10
 12주차 | []() | [월간 코드 챌린지 시즌 1 :: 이진 변환 반복하기](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week%2012/%EA%B0%9C%EC%9D%B8%EB%AC%B8%EC%A0%9C%2012-1.js)</br> [프로그래머스 :: 피보나치 수  ](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week%2012/%EA%B0%9C%EC%9D%B8%EB%AC%B8%EC%A0%9C%2012-2.js) | Javascript | 2021-10-17
 13주차 | []() | [프로그래머스 :: N개의 최소공배수](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week%2013/%EA%B0%9C%EC%9D%B8%EB%AC%B8%EC%A0%9C%2013-1.js) | Javascript | 2021-10-24
-14주차 | [2018 KAKAO BLIND RECRUITMENT :: 다트 게임](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week14/%EA%B3%B5%ED%86%B5%EB%AC%B8%EC%A0%9C%2014.js) | []() | Javascript | 2021-10-31
+14주차 | [2018 KAKAO BLIND RECRUITMENT :: 다트 게임](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week14/%EA%B3%B5%ED%86%B5%EB%AC%B8%EC%A0%9C%2014.js) | [프로그래머스 :: 최대공약수와 최소공배수](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week14/%EA%B0%9C%EC%9D%B8%EB%AC%B8%EC%A0%9C%2014-5.js) | Javascript | 2021-10-31
 
 
