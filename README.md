@@ -21,4 +21,5 @@
 14주 | [2018 KAKAO BLIND RECRUITMENT :: 다트 게임](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week14/%EA%B3%B5%ED%86%B5%EB%AC%B8%EC%A0%9C%2014.js) | [프로그래머스 :: 최대공약수와 최소공배수](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week14/%EA%B0%9C%EC%9D%B8%EB%AC%B8%EC%A0%9C%2014-5.js) | Javascript 
 15주 | []() | [위클리 챌린지 :: 최소직사각형](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week15/%EA%B0%9C%EC%9D%B8%EB%AC%B8%EC%A0%9C%2015-1.js) | Javascript 
 16주 | [프로그래머스 :: N-Queen](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week16/%EA%B3%B5%ED%86%B5%EB%AC%B8%EC%A0%9C%2016.js) | [프로그래머스 :: 멀쩡한 사각형](https://github.com/Younggil-kim/Coding-Test-Study/blob/master/Week16/%EA%B0%9C%EC%9D%B8%EB%AC%B8%EC%A0%9C%2016-1.js) | Javascript
+17주 | []() | []() | Javascript
 
